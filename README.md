@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGOoSfdygaQCw/profile-displaybackgroundimage-shrink_350_1400/0/1700816322106?e=1721260800&v=beta&t=Fly7OWEez4vHf12Lfsc58TH6J44cp6lMe0d-vht6ohw)
+
 <h1 align="center">Hi 👋, I'm Mehmet SUTCU</h1>
 <h3 align="center">I work in the field of Software Test Engineering and Data Science.</h3>
 
