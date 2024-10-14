@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet SUTCU</h1>
 <h3 align="center">I work in the field of Software Test Engineering and Data Science.</h3>
 
-- 🔭 I’m currently working on [e-commerce UI Testing Project](https://morgenmarkt.de/)
+- 🔭 I have experienced on Software Testing.
 
-- 🌱 I’m currently learning **Data Science and Data Visualization Tools**
+- 🌱 I’m currently training  **Data Science, Data Visualization Tools and DeepLearning Models**
 
 - 💬 Ask me about **Selenium, Appium, Playwright, PowerBI**
 
